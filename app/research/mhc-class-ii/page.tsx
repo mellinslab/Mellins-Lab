@@ -60,7 +60,7 @@ export default function MHCClassII() {
 
         <h3 className="font-semibold">Related papers;</h3>
         <ul className="list-disc">
-          <li>Saper VE, Ombrello MO, Tremoulet A, Montero-Martin G, Prahalad S, Canna S, Shimizu C, Deutsch G, Tan S, Remmers EF, Monos D, Phadke O, Malljosyula V, Xu J, Rosa Duque JS, Chua GT, Ghosh D, Szymanski AM, Rubin D, Tian L, Burns JC, Fernandez-Vina M, Mellins ED*#, Hollenbach JA#. (2022) Hypersensitivity reactions to IL-1 and IL-6 inhibitors are linked to common HLA-DRB1*15 alleles. Ann Rheum Dis 2022. 81:406-415.  PMID: 34789453 *corresponding author #co-senior authors.</li>
+          <li>Saper VE, Ombrello MO, Tremoulet A, Montero-Martin G, Prahalad S, Canna S, Shimizu C, Deutsch G, Tan S, Remmers EF, Monos D, Phadke O, Malljosyula V, Xu J, Rosa Duque JS, Chua GT, Ghosh D, Szymanski AM, Rubin D, Tian L, Burns JC, Fernandez-Vina M, Mellins ED*#, Hollenbach JA#. (2022) Hypersensitivity reactions to IL-1 and IL-6 inhibitors are linked to common HLA-DRB1*15 alleles. Ann Rheum Dis 2022. 81:406-415.  PMID: 34789453.</li>
           <li>Busch R, Kollnberger S, Mellins ED MHC association with rheumatic diseases: implications and mechanistic hypotheses. Nat. Rev. Rheum, 2019 15:364-381.</li>
         </ul>
 
