@@ -13,7 +13,7 @@ export function ImageGrid({ cards }: { cards: any[]; }) {
   return (
     <div className="flex flex-col items-center justify-center space-y-8 py-8 w-full">
       {cards.map((card) => (
-        <LabImageComponent image={card.image} title={card.title} />
+        <LabImageComponent key={card.id} image={card.image} title={card.title} />
       ))}
     </div>
   );
