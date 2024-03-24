@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Metadata } from "next";
 import { PersonCard } from "@/components/PersonCard/PersonCard";
 import { PageTitle } from "@/components/PageTitle/PageTitle";
@@ -80,8 +81,14 @@ export default function WhoWeAre() {
         ))}
       </div>
 
-      <div className="max-w-5xl mx-auto px-8">
-    </div>
+      <hr />
+
+      <Link
+        href="/who-we-are/alumni"
+        className="text-2xl font-semibold font-mono"
+      >
+        Our Alumni
+      </Link>
     </div>
   );
 }
