@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Pediatric Acute-Onset Neuropsychiatric Syndrome (PANS)',
 };
 
-export default function Research() {
+export default function PansPage() {
   return (
     <div>
       <PageTitle title="Pediatric Acute-Onset Neuropsychiatric Syndrome (PANS)" />
