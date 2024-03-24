@@ -14,7 +14,7 @@ export function ImageGrid({ cards }: { cards: any[]; }) {
   return (
     <div className="h-screen py-8 w-full">
       {splitCards.map((cards: any[], i: number) => (
-        <LayoutGrid cards={cards} />
+        <LayoutGrid key={i} cards={cards} />
       ))}
     </div>
   );
