@@ -13,7 +13,7 @@ export default function MHCClassII() {
     <div>
       <PageTitle title="MHC Class II Antigen Presentation and Beyond" />
 
-      <div className="my-10 space-y-8">
+      <div className="my-10 lg:mx-16 space-y-8">
         <p>
           MHC Class II molecules are a class of major histocompatibility
           complex (MHC) molecules normally found only on professional antigen-presenting
