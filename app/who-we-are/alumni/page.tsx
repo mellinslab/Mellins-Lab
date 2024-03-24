@@ -18,22 +18,22 @@ export default function WhoWeAreAlumni() {
   return (
     <div>
       <PageTitle title="Who We Are | Alumni" />
-      <div className="my-16 lg:mx-16">
+      <div className="flex flex-row items-center justify-center my-16 lg:mx-16">
         <table className="table-auto">
           <thead>
             <tr>
-              <th>Name</th>
-              <th>Training Period</th>
-              <th>Current Position</th>
+              <th className="py-3 px-4 text-left">Name</th>
+              <th className="py-3 px-4 text-left">Training Period</th>
+              <th className="py-3 px-4 text-left">Current Position</th>
             </tr>
           </thead>
           <tbody>
             {
               alumni.map((alum, i) => (
                 <tr key={i} >
-                  <td>{alum.name}</td>
-                  <td>{alum.year}</td>
-                  <td>{alum.position}</td>
+                  <td className="py-3 px-4">{alum.name}</td>
+                  <td className="py-3 px-4">{alum.year}</td>
+                  <td className="py-3 px-4">{alum.position}</td>
                 </tr>
               ))
             }
