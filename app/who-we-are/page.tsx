@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 import { PersonCard } from "@/components/PersonCard/PersonCard";
 import { PageTitle } from "@/components/PageTitle/PageTitle";
+import { Button } from "@/components/ui/button";
 
 export const metadata: Metadata = {
   title: 'Who We Are',
@@ -85,9 +86,9 @@ export default function WhoWeAre() {
 
       <Link
         href="/who-we-are/alumni"
-        className="text-2xl font-semibold font-mono"
+        className="text-2xl font-semibold font-mono mt-4"
       >
-        Our Alumni
+        <Button>Our Alumni</Button>
       </Link>
     </div>
   );
