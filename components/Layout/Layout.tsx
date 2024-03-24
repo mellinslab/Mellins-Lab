@@ -10,7 +10,7 @@ export default function Layout({
   return (
     <div className="flex flex-col min-h-screen justify-between">
       <Header />
-      <main className='container mx-auto my-8 flex-1 px-16 overflow-x-hidden'>
+      <main className='container mx-auto my-8 flex-1 px-16'>
         {children}
       </main>
       <Footer />
