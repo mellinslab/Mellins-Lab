@@ -10,7 +10,7 @@ const examplePeople = [
   {
     name: 'Elizabeth D. Mellins,MD',
     title: 'Principal Investigator',
-    image: 'person1.jpeg',
+    image: 'Elizabeth.jpg',
     email: 'mellins@stanford.edu',
   },
 ];
