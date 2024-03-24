@@ -5,9 +5,9 @@ export function Logo() {
   return (
     <Link
       href="/"
-      className="font-mono font-semibold text-sm sm:text-lg xl:text-2xl mr-4"
+      className="h-24"
     >
-      My Beautiful Lab
-  </Link>
+      <img src="/images/logo.png" alt="Mellins Lab Logo" />
+    </Link>
   );
 }
