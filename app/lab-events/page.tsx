@@ -26,27 +26,43 @@ export default function LabEvents() {
   const imageContent = [
     {
       id: 1,
-      title: "House in the woods",
-      description: "A serene and tranquil retreat, this house in the woods offers a peaceful escape from the hustle and bustle of city life.",
-      image: "event1.jpeg"
+      title: "Dinner at Passionfish in Pacific Groove during the Immunology Annual Conference",
+      image: "Dinner.jpg",
     },
     {
       id: 2,
-      title: "House above the clouds",
-      description: "Perched high above the world, this house offers breathtaking views and a unique living experience. It's a place where the sky meets home, and tranquility is a way of life.",
-      image: "event2.jpeg"
+      title: "Immunology Annual Conference- Asilomar, 2023",
+      image: "Lab.jpg",
     },
     {
       id: 3,
-      title: "Greens all over",
-      description: "A house surrounded by greenery and nature's beauty. It's the perfect place to relax, unwind, and enjoy life.",
-      image: "event3.jpeg"
+      title: "Valentine’s Day Mellins Lab edition",
+      image: "Lab2.jpg",
     },
     {
       id: 4,
-      title: "Rivers are serene",
-      description: "A house by the river is a place of peace and tranquility. It's the perfect place to relax, unwind, and enjoy life.",
-      image: "event4.jpeg"
+      title: "Running samples with Fluorescence-activated cell sorting (FACS) ",
+      image: "Facs.jpg",
+    },
+    {
+      id: 5,
+      title: "Poster presentation of Xiaowen at Asilomar",
+      image: "Poster.jpeg",
+    },
+    {
+      id: 6,
+      title: "National Postdoc Appreciation Week Day",
+      image: "Postdocevent.jpg",
+    },
+    {
+      id: 7,
+      title: "Department of Pediatrics  Social event",
+      image: "Pedsevent.jpg",
+    },
+    {
+      id: 8,
+      title: "We are here to support Ayan and Noor.",
+      image: "Postdocevent.jpg",
     },
   ];
 
