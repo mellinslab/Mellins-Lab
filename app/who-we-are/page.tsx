@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Who We Are',
 };
 
-const examplePeople = [
+const people = [
   {
     name: 'Elizabeth D. Mellins, MD',
     title: 'Principal Investigator',
@@ -75,7 +75,7 @@ export default function WhoWeAre() {
     <div>
       <PageTitle title="Who We Are" />
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 my-16">
-        {examplePeople.map((person, index) => (
+        {people.map((person, index) => (
           <PersonCard key={index} person={person} />
         ))}
       </div>
