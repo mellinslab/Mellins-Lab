@@ -7,7 +7,7 @@ export function ImageGrid({ cards }: { cards: any[]; }) {
     return (
     <div className="flex flex-col items-center justify-center space-y-4">
       <img
-        className="w-full h-96 object-cover"
+        className="w-2/3 h-96 object-cover"
         src={`/images/events/${image}`}
         alt={title}
       />
