@@ -28,8 +28,16 @@ export default function Research() {
           functional and/or phenotypic differences between NK cells in PANS patients compared to healthy controls.
         </p>
 
-        <img />
-        <img />
+        <img
+          className="w-2/3 h-96 object-cover"
+          src="images/research/pans1.jpg"
+          alt="PANS image 1"
+        />
+        <img
+          className="w-2/3 h-96 object-cover"
+          src="images/research/pans2.jpg"
+          alt="PANS image 2"
+        />
 
         <p>
           Dr. Hussein's current work aims to increase the understanding of Pediatric Acute Onset Neuropsychiatric
@@ -51,7 +59,11 @@ export default function Research() {
           migration to the brain.
         </p>
         
-        <img />
+        <img
+          className="w-2/3 h-96 object-cover"
+          src="images/research/pans3.jpg"
+          alt="PANS image 3"
+        />
 
         <p>
           Dr. Mondal focuses on Blood-brain barrier (BBB) regulation in PANS. BBB dysfunction is presumed in the onset of
@@ -62,7 +74,11 @@ export default function Research() {
           alters disrupted BBB physiology in the improved PANS subjects.
         </p>
         
-        <img /> 
+        <img
+          className="w-2/3 h-96 object-cover"
+          src="images/research/pans4.jpg"
+          alt="PANS image 4"
+        />
 
         <p>
           Dr. Kalinowski’s work focused on serum C4 protein in PANS. PANS patients have an increased prevalence of comorbid
@@ -71,7 +87,7 @@ export default function Research() {
           longitudinal data collected by the Stanford PANS Clinic, we found that PANS patients with low C4B were at increased
           risk for subsequent JIA diagnosis (hazard ratio = 2.7, p-value = 0.004). We also observed a possible increase in
           the risk of Autoimmune Illness in PANS patients, as well as a potential correlation between lower C4B levels and
-          the age of onset of PANS
+          the age of onset of PANS.
         </p>
       </div>
     </div>
