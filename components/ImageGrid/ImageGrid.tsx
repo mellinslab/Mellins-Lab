@@ -6,7 +6,11 @@ export function ImageGrid({ cards }: { cards: any[]; }) {
   const LabImageComponent = ({ image, title }: { image: any; title: any; }) => {
     return (
     <div className="flex flex-col items-center justify-center space-y-4">
-      <img src={`/images/events/${image}`} alt={title} />
+      <img
+        className="w-full h-96 object-cover"
+        src={`/images/events/${image}`}
+        alt={title}
+      />
       <p>{title}</p>
     </div>
   )
