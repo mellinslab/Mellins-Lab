@@ -6,27 +6,12 @@ export const metadata: Metadata = {
   title: 'Who We Are',
 };
 
-const examplePeople = [
+const examplePeople =
   {
-    name: 'Jane Doe',
-    title: 'CEO',
-    description: 'Jane is the CEO of My Beautiful Lab.',
+    name: 'Elizabeth D. Mellins,MD',
+    title: 'Principal Investigator',
     image: 'person1.jpeg',
-    email: 'exampleemail@example.com',
-    linkedin: 'https://www.linkedin.com/in/example123asdsadsa',
-    twitter: 'https://twitter.com/example123asdsadsa',
-  },
-  {
-    name: 'John Doe',
-    title: 'CTO',
-    description: 'John is the CTO of My Beautiful Lab.',
-    email: 'exampleemail@example.com',
-  },
-  {
-    name: 'Jill Doe',
-    title: 'COO',
-    description: 'Jill is the COO of My Beautiful Lab.',
-    image: 'person2.jpeg',
+    email: 'mellins@stanford.edu',
   },
 ];
 
