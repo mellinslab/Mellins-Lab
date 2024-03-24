@@ -82,8 +82,6 @@ export default function WhoWeAre() {
         ))}
       </div>
 
-      <hr />
-
       <Link
         href="/who-we-are/alumni"
         className="text-2xl font-semibold font-mono mt-4"
