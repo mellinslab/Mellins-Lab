@@ -8,16 +8,16 @@ export const metadata: Metadata = {
 
 const researchs = [
   {
-    title: "Unlocking the Secrets of the Genome",
-    description: "Dive into our groundbreaking genetic research as we explore DNA's mysteries to pave the way for revolutionary treatments and personalized medicine. Our work aims to decode the genetic basis of diseases, bringing closer the reality of targeted gene therapies.",
+    title: "MHC Class II Antigen Presentation and Beyond",
+    description: "MHC Class II molecules are a class of major histocompatibility complex (MHC) molecules normally found only on professional antigen-presenting cells such as dendritic cells, mononuclear phagocytes, some endothelial cells, thymic epithelial cells, and B cells. These cells are important in initiating immune responses.",
   },
   {
-    title: "The Next Frontier in Nanomedicine",
-    description: "Explore how we're harnessing nanotechnology to transform medical diagnostics, drug delivery, and therapy. Our pioneering nanomedicine projects focus on developing nano-scale tools that could one day detect and treat diseases at their earliest stages, with unprecedented precision.",
+    title: "Pediatric Acute-Onset Neuropsychiatric Syndrome (PANS)",
+    description: "Pediatric Acute-Onset Neuropsychiatric Syndrome (PANS) is characterized by the sudden onset of neuropsychiatric symptoms, including obsessions/compulsions or food restrictions.",
   },
   {
-    title: "Combating Diseases with AI",
-    description: "Discover how artificial intelligence is becoming a powerful ally in fighting diseases. Our researchers use AI to analyze vast datasets, predict disease patterns, and design new drugs. This synergy between biology and technology opens new avenues for identifying and combating health threats faster than ever before.",
+    title: "Systemic Juvenile Idiopathic Arthritis (sJIA)",
+    description: "Systemic Juvenile idiopathic arthritis (JIA) is the most common type of arthritis in kids and teens.",
   },
 ]
 
