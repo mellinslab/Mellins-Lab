@@ -32,8 +32,8 @@ export default function MHCClassII() {
         </p>
 
         
-        <h3>Related papers;</h3>
-        <ul>
+        <h3 className="font-semibold">Related papers;</h3>
+        <ul className="list-disc">
           <li>Morris P, Shaman J, Attaya M, Amaya M, Goodman S, Bergman C, Monaco JJ, Mellins E.  An essential role for HLA-DM in antigen presentation by class II major histocompatibility molecules. Nature 368:551-554, 1994.</li>
           <li>Doebele RC, Busch R, Scott HM, Pashine A, Mellins ED. Determination of the HLA-DM interaction site on HLA-DR molecules. Immunity 13:517-527, 2000.</li>
           <li>Pashine A, Busch R, Belmares MP, Munning JN, Doebele RC, Buckingham M, Nolan GP, Mellins ED. Interaction of HLA-DR with an acidic face of HLA-DM disrupts sequence-dependent interactions with peptides. Immunity 19:183-192, 2003.</li>
@@ -58,9 +58,8 @@ export default function MHCClassII() {
           affinity than a TCR tetramer. We refer to these as TCR-likeantibodies.
         </p>
 
-        <h3>Related papers;</h3>
-
-        <ul>
+        <h3 className="font-semibold">Related papers;</h3>
+        <ul className="list-disc">
           <li>Saper VE, Ombrello MO, Tremoulet A, Montero-Martin G, Prahalad S, Canna S, Shimizu C, Deutsch G, Tan S, Remmers EF, Monos D, Phadke O, Malljosyula V, Xu J, Rosa Duque JS, Chua GT, Ghosh D, Szymanski AM, Rubin D, Tian L, Burns JC, Fernandez-Vina M, Mellins ED*#, Hollenbach JA#. (2022) Hypersensitivity reactions to IL-1 and IL-6 inhibitors are linked to common HLA-DRB1*15 alleles. Ann Rheum Dis 2022. 81:406-415.  PMID: 34789453 *corresponding author #co-senior authors.</li>
           <li>Busch R, Kollnberger S, Mellins ED MHC association with rheumatic diseases: implications and mechanistic hypotheses. Nat. Rev. Rheum, 2019 15:364-381.</li>
         </ul>
@@ -76,9 +75,8 @@ export default function MHCClassII() {
           MHCII in infected cells.
         </p>
 
-        <h3>Related papers;</h3>
-
-        <ul>
+        <h3 className="font-semibold">Related papers;</h3>
+        <ul className="list-disc">
           <li>Macmillan H, Strohman MJ, Ayyangar S, Jiang W, Rajasekaran N, Spura A, Hessell A, Madec A-M, Mellins ED. The MHC class II cofactor, HLA-DM, interacts with immunoglobulin in B cells. J Immunol 193:2641-50, 2014. PMCID: PMC4157100</li>
           <li>Lee J, Tam H, Adler LN, Ilstad-Minnihan A, Macaubas C, Mellins ED. The MHC class II antigen presentation pathway in human monocytes differs by subset and is regulated by cytokines. PLOS One 12:e0183594, 2017 PMCID: PMC5568224.</li>
         </ul>
