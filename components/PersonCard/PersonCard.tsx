@@ -14,7 +14,7 @@ import { Linkedin, Mail, Twitter } from 'lucide-react';
 type PersonType = {
   name: string;
   title: string;
-  description: string;
+  description?: string;
   image?: string;
   email?: string;
   linkedin?: string;
@@ -33,7 +33,9 @@ export function PersonCard({ person }: { person: PersonType }) {
         <CardDescription>{person.title}</CardDescription>
       </CardHeader>
       <CardContent className="text-center">
-        <p>{person.description}</p>
+        {person.description && (
+          <p>{person.description}</p>
+        )}
       </CardContent>
       <CardFooter className="flex flex-row items-center justify-end space-x-4 border-t pt-4">
         {person.email && (
