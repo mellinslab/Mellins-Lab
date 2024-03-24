@@ -11,9 +11,9 @@ export default function Contact() {
     <div>
       <PageTitle title="Contact Us" />
       <div className="my-10 space-y-10">
-        <ContactCard type="phone" contact="123-456-7890" />
-        <ContactCard type="email" contact="mybeautifullab@example.com" />
-        <ContactCard type="address" contact="1234 Main St, City, State 12345" />
+        <ContactCard type="phone" contact="650-498-7574" />
+        <ContactCard type="email" contact="mellins@stanford.edu" />
+        <ContactCard type="address" contact="Adress: 269 Campus Dr, STANFORD: The Center for Clinical Sciences Research (CCSR) building, Room 1200" />
       </div>
     </div>
   );
