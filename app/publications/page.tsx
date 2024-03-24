@@ -7,10 +7,10 @@ export const metadata: Metadata = {
 
 const publications = [
   {
-    title: "Nanoparticle Delivery Systems: Revolutionizing Targeted Cancer Therapy",
-    authors: "Smith J., Doe A., Patel S.",
-    published: 2023,
-    journal: "International Journal of Nanomedicine Research"
+    title: "Epitope selection for HLA-DQ2 presentation: implications for celiac disease and viral defense",
+    authors: "Hung SC, Hou T, Jiang W, Wang N, Qiao SW, Chow, IT, Liu X, van der Burg SH, Koelle DM, Kwok WW, Sollid LM, Mellins ED",
+    published: 2019,
+    journal: "J. Immunol"
   },
   {
     title: "Gene Editing in Rare Genetic Disorders: CRISPR-Cas9 Approaches",
