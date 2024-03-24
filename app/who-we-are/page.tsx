@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Who We Are',
 };
 
-const examplePeople =
+const examplePeople = [
   {
     name: 'Elizabeth D. Mellins,MD',
     title: 'Principal Investigator',
