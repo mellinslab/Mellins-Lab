@@ -12,6 +12,16 @@ const alumni = [
     year: '1992-1994',
     position: 'Rheumatologist, FL',
   },
+  {
+    name: 'Arunima Bandyopadhyay, PhD ',
+    year: '2005-2006',
+    position: 'Principal Scientist, Dr. Reddy’s Laboratories, New Haven',
+  },
+  {
+    name: 'Steven Goodman, MD',
+    year: '1992-1994',
+    position: 'Rheumatologist, FL',
+  },
 ];
 
 export default function WhoWeAreAlumni() {
