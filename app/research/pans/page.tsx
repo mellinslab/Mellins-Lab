@@ -30,12 +30,12 @@ export default function PansPage() {
 
         <img
           className="w-2/3 h-96 object-cover"
-          src="images/research/pans1.png"
+          src="/images/research/pans1.png"
           alt="PANS image 1"
         />
         <img
           className="w-2/3 h-96 object-cover"
-          src="images/research/pans2.png"
+          src="/images/research/pans2.png"
           alt="PANS image 2"
         />
 
@@ -61,7 +61,7 @@ export default function PansPage() {
         
         <img
           className="w-2/3 h-96 object-cover"
-          src="images/research/pans3.png"
+          src="/images/research/pans3.png"
           alt="PANS image 3"
         />
 
@@ -76,7 +76,7 @@ export default function PansPage() {
         
         <img
           className="w-2/3 h-96 object-cover"
-          src="images/research/pans4.png"
+          src="/images/research/pans4.png"
           alt="PANS image 4"
         />
 
