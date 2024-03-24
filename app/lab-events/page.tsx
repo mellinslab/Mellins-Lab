@@ -47,7 +47,7 @@ export default function LabEvents() {
     {
       id: 5,
       title: "Poster presentation of Xiaowen at Asilomar",
-      image: "Poster.jpeg",
+      image: "Poster.jpg",
     },
     {
       id: 6,
@@ -62,7 +62,7 @@ export default function LabEvents() {
     {
       id: 8,
       title: "We are here to support Ayan and Noor.",
-      image: "Postdocevent.jpg",
+      image: "Postersession.jpg",
     },
   ];
 
