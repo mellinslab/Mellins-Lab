@@ -40,7 +40,7 @@ export default function PansPage() {
         />
 
         <p>
-          Dr. Hussein's current work aims to increase the understanding of Pediatric Acute Onset Neuropsychiatric
+          Dr. Hussein&rsquo;s current work aims to increase the understanding of Pediatric Acute Onset Neuropsychiatric
           Syndrome (PANS) mechanisms and explore treatment options. Collaborating with Samira, they focus on studying
           the alteration of regulatory T cells (Tregs), crucial inhibitors of autoimmunity and main regulators of
           inflammation, in PANS. It is fascinating how regulatory T cells (Tregs) influence the immune system, especially
