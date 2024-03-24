@@ -3,7 +3,7 @@ import React from "react";
 import { LayoutGrid } from "../ui/layout-grid";
 
 export function ImageGrid({ cards }: { cards: any[]; }) {
-  const splitCards = cards.resuce((acc, card, i) => {
+  const splitCards = cards.reduce((acc, card, i) => {
     if (i % 4 === 0) {
       acc.push([]);
     }
