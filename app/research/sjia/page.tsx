@@ -12,7 +12,7 @@ export default function Research() {
     <div>
       <PageTitle title="Systemic Juvenile Idiopathic Arthritis (sJIA)" />
 
-      <div className="my-10 space-y-8">
+      <div className="my-10 lg:mx-16 space-y-8">
         <p>
           Systemic Juvenile idiopathic arthritis (JIA) is the most common type of arthritis in kids and teens.
         </p>
