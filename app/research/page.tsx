@@ -4,44 +4,45 @@ import { PageTitle } from "@/components/PageTitle/PageTitle";
 import { Button } from "@/components/ui/button";
 
 export const metadata: Metadata = {
-  title: 'Research',
+  title: 'Systemic Juvenile Idiopathic Arthritis (sJIA)',
 };
-
-const researchs = [
-  {
-    title: "MHC Class II Antigen Presentation and Beyond",
-    description: "MHC Class II molecules are a class of major histocompatibility complex (MHC) molecules normally found only on professional antigen-presenting cells such as dendritic cells, mononuclear phagocytes, some endothelial cells, thymic epithelial cells, and B cells. These cells are important in initiating immune responses.",
-    slug: "mhc-class-ii",
-  },
-  {
-    title: "Pediatric Acute-Onset Neuropsychiatric Syndrome (PANS)",
-    description: "Pediatric Acute-Onset Neuropsychiatric Syndrome (PANS) is characterized by the sudden onset of neuropsychiatric symptoms, including obsessions/compulsions or food restrictions.",
-    slug: "pans",
-  },
-  {
-    title: "Systemic Juvenile Idiopathic Arthritis (sJIA)",
-    description: "Systemic Juvenile idiopathic arthritis (JIA) is the most common type of arthritis in kids and teens.",
-    slug: "sjia",
-  },
-];
 
 export default function Research() {
   return (
     <div>
-      <PageTitle title="Research" />
+      <PageTitle title="Systemic Juvenile Idiopathic Arthritis (sJIA)" />
 
       <div className="my-10 space-y-8">
-        {researchs.map((research, index) => (
-          <div key={index} className="flex flex-col items-center space-y-4 pb-4 border-b last:border-none">
-            <h2 className="text-xl font-bold">{research.title}</h2>
-            <p className="text-center">{research.description}</p>
-            <Link
-              href={`/research/${research.slug}`}
-            >
-              <Button>Learn more</Button>
-            </Link>
-          </div>
-        ))}
+        <p>
+          Systemic Juvenile idiopathic arthritis (JIA) is the most common type of arthritis in kids and teens.
+        </p>
+
+        <p>
+          Dr. Ding is working on elucidating the mechanism underlying systemic Juvenile Idiopathic Arthritis (sJIA)
+          - associated pulmonary alveolar proteinosis (sJIA-PAP), a phenomenon not historically observed and believed
+          to coincident with the use of IL-1 and IL-6 neutralization therapies for sJIA. The key elements of sJIA-PAP
+          includes the impact of drug utilization, the functionality of alveolar macrophage, and the intricate regulation
+          of chemotaxis and host defense mechanisms.
+        </p>
+
+        <img src="/images/research/sjia1.png" alt="SJIA image 1" />
+
+        <p>
+          Paulette is using an in vitro model to characterize immune parameters with and without infection-related stimuli
+          to provide insight into the molecular mechanisms underlying systemic juvenile idiopathic arthritis-lung disease (sJIA-LD).
+        </p>
+
+        <p>
+          Monocytes (Non-classical, Intermediate, and Classical) over three time points of culture
+        </p>
+
+        <img src="/images/research/sjia2.png" alt="Monocytes (Non-classical, Intermediate, and Classical) over three time points of culture" />
+
+        <p>
+          B cells and CD3+T cells over three time points of culture  
+        </p>
+        
+        <img src="/images/research/sjia3.png" alt="B cells and CD3+T cells over three time points of culture" />
       </div>
     </div>
   );
