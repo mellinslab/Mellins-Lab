@@ -13,7 +13,7 @@ const alumni = [
     position: 'Rheumatologist, FL',
   },
   {
-    name: 'Philip Morris, PhD	 ',
+    name: 'Philip Morris, PhD',
     year: '1992-1995',
     position: 'Staff Scientist',
   },
@@ -28,7 +28,7 @@ const alumni = [
     position: 'Professor of Pediatrics, Clinical researcher, UCSF, San Francisco',
   },
   {
-    name: 'Lisa Lau, PhD	',
+    name: 'Lisa Lau, PhD',
     year: '1995-1997',
     position: 'OTL, Thomas Jefferson U, Philadelphia, PAD',
   },
@@ -53,12 +53,12 @@ const alumni = [
     position: 'Senior Product Manager, Oncology, Genentech, San Francisco',
   },
   {
-    name: 'Vashti Lacaille, PhD	',
+    name: 'Vashti Lacaille, PhD',
     year: '2000-2002',
     position: 'Global Product Manager, Beckman Coulter, Debary, FL',
   },
   {
-    name: 'Tara Hornell, PhD ',
+    name: 'Tara Hornell, PhD',
     year: '2000-2005',
     position: 'Home with children',
   },
@@ -123,7 +123,7 @@ const alumni = [
     position: 'Asst Prof., Dep’t Pathology, Indiana University, Indianapolis, IN',
   },
    {
-    name: 'Nan Wang, MD, PhD,
+    name: 'Nan Wang, MD, PhD',
     year: '2008-2014',
     position: 'Research Associate, Staff Scientist, Stanford University',
   },
