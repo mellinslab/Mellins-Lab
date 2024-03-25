@@ -85,10 +85,45 @@ const publications = [
   },
   {
     title: "RIPPA: identification of MHC-II binding peptides from antigen using a yeast display-based approach ",
-    authors: "12.	Liu R, Jiang W, Li Y, Mellins ED",
+    authors: "Liu R, Jiang W, Li Y, Mellins ED",
     published: 2022,
     journal: " Curr Protoc.",
     pubmed: "35041265",
+  },
+  {
+    title: "Tuning DO:DM ratios modulates MHC class II immunopeptidomes ",
+    authors: "Olsson N, Jiang W, Adler L, Mellins ED*, Elias JE",
+    published: 2022,
+    journal: " Mol Cell Proteomics.",
+    pubmed: "5085787",
+  },
+  {
+    title: "Regulation of the BCR signalosome by the class II peptide editor, H2-M, affects the development and repertoire of innate-like B cells ",
+    authors: "Ghosh D, Pham TD, Nanaware PP, Sengupta D, Adler LN, Li CG, He X, O'Mara ME, Kantor AB, Nguyen KD, Yang Y, Eisenlohr LC, Jensen PE, Herzenberg LA, Stern LJ, Boyd SD, Ghosn EEB, Mellins ED",
+    published: 2022,
+    journal: " Cell Rep.",
+    pubmed: "35081339",
+  },
+  {
+    title: "Serum proteome analysis of systemic JIA and related pulmonary alveolar proteinosis identifies distinct inflammatory programs and biomarkers ",
+    authors: "Chen G, Deutsch G, Schulert GS, Zheng H, … Khatri P, Mellins ED*, Canna SW",
+    published: 2022,
+    journal: " Arthritis Rheumatol.",
+    pubmed: "35189047",
+  },
+  {
+    title: "Extracellular vesicles in systemic juvenile idiopathic arthritis ",
+    authors: "Maller J, Morgan T, Morita M, McCarthy F, Jung Y, Svensson K, Elias J, Macaubas C and Mellins ED",
+    published: 2023,
+    journal: " J. Leukoc. Biol.",
+    pubmed: "37201912 ",
+  },
+  {
+    title: "Shortwave-infrared-light-emitting probes for the in vivo tracking of cancer vaccines and the elicited immune responses. ",
+    authors: "17.	Ren F, Wang F, Baghdasaryan A, Li Y, Liu H, Hsu R, Wang C, Li J, Zhong Y, Salazar F, Xu C, Jiang Y, Ma Z, Zhu G, Zhao X, Wong KK, Willis R, Christopher Garcia K, Wu A, Mellins E, Dai H. ",
+    published: 2023,
+    journal: " Nat Biomed Eng.",
+    pubmed: "37620621",
   },
 ];
 
