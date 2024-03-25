@@ -120,7 +120,7 @@ const publications = [
   },
   {
     title: "Shortwave-infrared-light-emitting probes for the in vivo tracking of cancer vaccines and the elicited immune responses. ",
-    authors: "17.	Ren F, Wang F, Baghdasaryan A, Li Y, Liu H, Hsu R, Wang C, Li J, Zhong Y, Salazar F, Xu C, Jiang Y, Ma Z, Zhu G, Zhao X, Wong KK, Willis R, Christopher Garcia K, Wu A, Mellins E, Dai H. ",
+    authors: "Ren F, Wang F, Baghdasaryan A, Li Y, Liu H, Hsu R, Wang C, Li J, Zhong Y, Salazar F, Xu C, Jiang Y, Ma Z, Zhu G, Zhao X, Wong KK, Willis R, Christopher Garcia K, Wu A, Mellins E, Dai H. ",
     published: 2023,
     journal: " Nat Biomed Eng",
     pubmed: "37620621",
